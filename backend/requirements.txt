@@ -1,0 +1,6 @@
+
+pipecat-ai[google,elevenlabs,silero,webrtc]==1.17.0
+fastapi
+uvicorn
+python-dotenv
+aiohttp
